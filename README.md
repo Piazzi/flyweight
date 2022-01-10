@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the flyweight design pattern. 
+Simple project representing the flyweight design pattern. For this one, i created a Game Class that has multiple assets and textures, textures can be used in multiple assets.If 2 assets uses the same texture, intead of creating 2 texture objets, only one object for that texture is really necessary, so the texture object should be referenced in the assets without being duplicated and consume more memory.
 
 # Resume
 
